@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/palomahimoro">
+    <img height"180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomahimoro&layout-compact&langs_count-16&theme-dracula"/>
+    </div>                            
