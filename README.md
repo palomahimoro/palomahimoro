@@ -1,4 +1,4 @@
-### <br> Olá, meu nome é Paloma Himoro!👋
+### <br> Olá, meu nome é Paloma Himoro! 👋
 </br>
 
 <!--
