@@ -1,4 +1,4 @@
-### Olá, meu nome é Stephanie Cardoso!👋
+### Olá, meu nome é Paloma Himoro!👋
 
 <!--
 **palomahimoro/palomahimoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
