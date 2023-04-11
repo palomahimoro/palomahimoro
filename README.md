@@ -1,5 +1,9 @@
 ### <br> Olá, meu nome é Paloma Himoro! 👋
 </br>
+I'm looking for opportunities in the data area.
+
+Commercial Analyst experienced in business development, SellOut, management of orders and suppliers, verification of costs and invoiced quantities, as well as supervision of new item registration. I also have experience in analyzing sales behavior, identifying sales opportunities, supporting sales teams, searching for new sellers, and interfacing between sellers and IT. Seeking opportunities in the data area.
+
 
 <!--
 **palomahimoro/palomahimoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
+
+
 <div>
   <a href="https://github.com/palomahimoro">
   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomahimoro&layout=compact&langs_count=16&theme=nightowl"/>
