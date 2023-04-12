@@ -2,7 +2,7 @@
 </br>
 I'm looking for opportunities in the data area.
 
-Commercial Analyst experienced in business development, SellOut, management of orders and suppliers, verification of costs and invoiced quantities, as well as supervision of new item registration. I also have experience in analyzing sales behavior, identifying sales opportunities, supporting sales teams, searching for new sellers, and interfacing between sellers and IT. Seeking opportunities in the data area.
+Commercial Analyst experienced in business development, SellOut, management of orders and suppliers, verification of costs and invoiced quantities, as well as supervision of new item registration. I also have experience in analyzing sales behavior, identifying sales opportunities, supporting sales teams, searching for new sellers, and interfacing between sellers and IT. 
 
 
 <!--
